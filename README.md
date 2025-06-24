@@ -1,6 +1,7 @@
-# 🎧 React + Vite Music Player App
+## 🎧 Music Player App
 
-This is a modern, responsive **Spotify-like Music Player** built using **React + Vite**. It features:
+A modern, responsive **Spotify-like Music Player** built with **React + Vite**, featuring:
+
 - Sidebar navigation (For You, Top Tracks)
 - Real-time search filtering
 - Music player controls (Play, Pause, Next, Previous)
@@ -9,29 +10,31 @@ This is a modern, responsive **Spotify-like Music Player** built using **React +
 
 ---
 
-## 🚀 Demo
+## 🚀 Live Demo
 
-🌐 [Live Demo](https://your-demo-link.com)  
+🌐 [Click here to view the live demo](https://your-demo-link.com)
+
 ---
 
 ## 📦 Tech Stack
 
 - **React 18**
-- **Vite** (Fast bundler & dev server)
-- **Tailwind CSS** (Utility-first CSS framework)
-- **Lucide Icons** (Lightweight React SVG icons)
-- **Axios** (For API calls)
-- **AOS** (Animate on scroll)
-- **Responsive Design** with mobile drawer sidebar
+- **Vite** – Fast bundler & dev server
+- **Tailwind CSS** – Utility-first CSS framework
+- **Lucide Icons** – Lightweight React SVG icons
+- **Axios** – For API calls
+- **AOS** – Animate On Scroll Library
+- **Responsive Design** – Optimized for mobile and desktop with animated drawer sidebar
 
 ---
-## 📦 Installation
+
+## ⚙️ Installation
 
 1. **Clone the repository**
 
 ```bash
-git clone  https://github.com/guptaroshan75/music_player.git
-cd task-todo
+git clone https://github.com/guptaroshan75/music_player.git
+cd music_player
 
 npm install
 npm run dev
