@@ -7,15 +7,11 @@ This is a modern, responsive **Spotify-like Music Player** built using **React +
 - Dynamic animated gradient backgrounds
 - Responsive mobile sidebar with animations
 
-> Built with ⚡️ Vite for lightning-fast performance and optimized development.
-
 ---
 
 ## 🚀 Demo
 
 🌐 [Live Demo](https://your-demo-link.com)  
-*(Replace this link with your deployed app)*
-
 ---
 
 ## 📦 Tech Stack
@@ -29,15 +25,13 @@ This is a modern, responsive **Spotify-like Music Player** built using **React +
 - **Responsive Design** with mobile drawer sidebar
 
 ---
+## 📦 Installation
 
-## 📂 Folder Structure
+1. **Clone the repository**
 
 ```bash
-src/
-├── components/
-│   ├── Sidebar.jsx
-│   └── Player.jsx
-├── App.jsx
-├── App.css
-├── main.jsx
-└── index.css
+git clone  https://github.com/guptaroshan75/music_player.git
+cd task-todo
+
+npm install
+npm run dev
