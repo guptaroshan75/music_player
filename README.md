@@ -12,7 +12,7 @@ A modern, responsive **Spotify-like Music Player** built with **React + Vite**, 
 
 ## 🚀 Live Demo
 
-🌐 [Click here to view the live demo](https://your-demo-link.com)
+🌐 [Click here to view the live demo](https://music-player-two-pink.vercel.app/)
 
 ---
 
