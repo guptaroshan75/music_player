@@ -90,7 +90,7 @@ const Player = ({ song, audioRef, onNext, onPrev }) => {
 
     return (
         <div className="h-full flex flex-col justify-center items-center text-white
-            lg:mt-0 md:mt-0 sm:mt-0 mt-6"
+            lg:mt-0 md:mt-0 sm:mt-0"
         >
             {song ? (
                 <div className='lg:w-82 md:w-72 sm:w-82 w-72 lg:ml-5 md:ml-5 ml-0'>
